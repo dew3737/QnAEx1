@@ -1,0 +1,36 @@
+#list
+{
+	overflow-y		: scroll;
+	width			: 290px;
+	height			: 200px;
+	margin			: 0;
+	padding			: 5px;
+	border			: 1px solid #ccc;
+	font-size		: 9pt;
+	font-family		: 'dotum', 'µ¸¿ò';
+}
+form input#msg
+{
+	width			: 240px;
+	margin-right	: 5px;
+	padding			: 2px;
+	border			: 1px solid #ccc;
+	font-size		: 9pt;
+	font-family		: 'dotum', 'µ¸¿ò';
+}
+form input#btn
+{
+	width			: 50px;
+	font-size		: 9pt;
+	font-family		: 'dotum', 'µ¸¿ò';
+}
+#table
+{
+	width			: 290px;
+	height			: 200px;
+	margin			: 0;
+	padding			: 5px;
+	border			: 1px solid #ccc;
+	font-size		: 9pt;
+	font-family		: 'dotum', 'µ¸¿ò';
+}
